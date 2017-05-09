@@ -8,8 +8,8 @@ Angular JS Form with basic validation
 - bootstrap.min.js
  - angular.min.js
  
-#### Controller:
-```` javascript
+#### Controller JS:
+```` javscript
 angular.module('formApp', []).controller('formCtrl', function ($scope) {    
 	
     $scope.submit = function(form) {
